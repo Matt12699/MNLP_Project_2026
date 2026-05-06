@@ -224,6 +224,7 @@ checkpoint-*/
 
 report/
 outputs/
+JSON/
 plots/
 data/
 *.json
